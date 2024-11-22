@@ -60,7 +60,7 @@
             this.btnImport.Label = "Create Word Template";
             this.btnImport.Name = "btnImport";
             this.btnImport.ShowImage = true;
-            this.btnImport.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.btnImport_Click);
+            this.btnImport.Click += new Microsoft.Office.Tools.Ribbon.RibbonControlEventHandler(this.BtnImport_Click);
             // 
             // MyRibbon
             // 
